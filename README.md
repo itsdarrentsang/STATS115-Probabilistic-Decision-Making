@@ -10,3 +10,4 @@ Homework 3 | 100
 Homework 4 | 100
 Homework 5 | 100
 Midterm    | 100
+Final      | 100
